@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\efrenbg1\\Desktop\\iw4m-votemap\\iw4m-votemap.csproj": {}
+    "C:\\Users\\efrenbg1\\ownCloud\\Proyectos\\iw4m-votemap\\iw4m-votemap.csproj": {}
   },
   "projects": {
-    "C:\\Users\\efrenbg1\\Desktop\\iw4m-votemap\\iw4m-votemap.csproj": {
+    "C:\\Users\\efrenbg1\\ownCloud\\Proyectos\\iw4m-votemap\\iw4m-votemap.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\efrenbg1\\Desktop\\iw4m-votemap\\iw4m-votemap.csproj",
+        "projectUniqueName": "C:\\Users\\efrenbg1\\ownCloud\\Proyectos\\iw4m-votemap\\iw4m-votemap.csproj",
         "projectName": "iw4m-votemap",
-        "projectPath": "C:\\Users\\efrenbg1\\Desktop\\iw4m-votemap\\iw4m-votemap.csproj",
+        "projectPath": "C:\\Users\\efrenbg1\\ownCloud\\Proyectos\\iw4m-votemap\\iw4m-votemap.csproj",
         "packagesPath": "C:\\Users\\efrenbg1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\efrenbg1\\Desktop\\iw4m-votemap\\obj\\",
+        "outputPath": "C:\\Users\\efrenbg1\\ownCloud\\Proyectos\\iw4m-votemap\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

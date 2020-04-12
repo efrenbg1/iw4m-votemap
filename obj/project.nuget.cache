@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y2CXzeniwI8AFrheVaKsxShqHmfsALTJ+caqoX+u/HHwVFEQlRBG8yvrFIb8usz6ndWzZf42FzlMQnQMfGwPHg==",
+  "dgSpecHash": "f6i9KYWN1jQg8nEMcVLQTMkreYVWUb0V7vWWrjsTNkAyEUPU2RX5ntXSdA/5Ks1ArA+YZp2ysNBAssm29lwxHw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\efrenbg1\\Desktop\\iw4m-votemap\\iw4m-votemap.csproj",
+  "projectFilePath": "C:\\Users\\efrenbg1\\ownCloud\\Proyectos\\iw4m-votemap\\iw4m-votemap.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\efrenbg1\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
     "C:\\Users\\efrenbg1\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
