@@ -1,0 +1,9 @@
+C:\Users\efrenbg1\Desktop\iw4m-votemap\bin\Debug\netcoreapp3.1\iw4m-votemap.deps.json
+C:\Users\efrenbg1\Desktop\iw4m-votemap\bin\Debug\netcoreapp3.1\iw4m-votemap.dll
+C:\Users\efrenbg1\Desktop\iw4m-votemap\bin\Debug\netcoreapp3.1\iw4m-votemap.pdb
+C:\Users\efrenbg1\Desktop\iw4m-votemap\obj\Debug\netcoreapp3.1\iw4m-votemap.csprojAssemblyReference.cache
+C:\Users\efrenbg1\Desktop\iw4m-votemap\obj\Debug\netcoreapp3.1\iw4m-votemap.csproj.CoreCompileInputs.cache
+C:\Users\efrenbg1\Desktop\iw4m-votemap\obj\Debug\netcoreapp3.1\iw4m-votemap.AssemblyInfoInputs.cache
+C:\Users\efrenbg1\Desktop\iw4m-votemap\obj\Debug\netcoreapp3.1\iw4m-votemap.AssemblyInfo.cs
+C:\Users\efrenbg1\Desktop\iw4m-votemap\obj\Debug\netcoreapp3.1\iw4m-votemap.dll
+C:\Users\efrenbg1\Desktop\iw4m-votemap\obj\Debug\netcoreapp3.1\iw4m-votemap.pdb
